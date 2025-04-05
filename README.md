@@ -44,6 +44,14 @@ Se realizaron diversas visualizaciones para responder preguntas clave del negoci
 
 Se utilizaron matplotlib y seaborn para la representación gráfica.
 
-## 🧠 Conclusiones 
-Este análisis proporciona insights clave para entender el valor de los clientes, su comportamiento a lo largo del tiempo y cómo diferentes variables (educación, género, tipo de tarjeta) se relacionan con su actividad en el programa de lealtad.
+## 🧠 Fase 3: Análisis, Conclusiones y Next Steps.
+- Este análisis proporciona insights clave para entender el valor de los clientes, su comportamiento a lo largo del tiempo y cómo diferentes variables (educación, género, tipo de tarjeta) se relacionan con su actividad en el programa de lealtad.
+
+- En el documento también se podran conocer las conclusiones finales así como los próximos pasos del proyecto.
+
+## 🛠️ Fase 4: ETL in progress.
+
+- En la carpeta ETL se puede encontrar el proceso ETL solo para la parte de exploración de archivos y creación de un nuevo archivo csv con la información relevante unificada.
+
+- Ejecutando el archivo main.py desde la terminal se podrá ver esta primera parte del proceso.
 
